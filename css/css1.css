@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: rgb(62, 216, 255);
+    text-align: center;
+    padding: 5px;
+    height: 150px;
+
+}
+button{
+    width: 100px;
+    height: 40px;
+}
+.pags{
+    margin-top: 35px;
+    margin-right: 6px;
+}
+.info{
+    background-color:white ;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+}
+body{
+    background-color: rgb(241, 241, 241);
+}
+img{
+    width: 160px;
+}
